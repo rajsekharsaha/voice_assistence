@@ -1,0 +1,11 @@
+STEP 1: START
+STEP 2: import some Libary like speech_recognition, datetime, wikipedia, pyttsx3, webbrowser, random, os
+STEP 3: initilize and set up the voice engine system
+STEP 4: define the speak function
+STEP 5: then define the wish function
+STEP 6: under wish function AI deteact the time and wish good morning, good afternoon or good night
+STEP 7: then define the takecom function
+STEP 8: takecom function can able to listien, recognize and check the  network connection
+STEP 9: then it will run the main function
+STEP 10: In the main function user can ask anything to the voice assistence
+STEP 11: END
